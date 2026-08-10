@@ -1,32 +1,40 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=DARSHAN&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Engineered%20in%20silence.%20Deployed%20with%20precision.&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0a2540,100:00d4ff&height=200&section=header&animation=fadeIn"/>
+
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=1200&pause=600&color=00D4FF&center=true&vCenter=true&width=500&height=40&lines=%3E+_" alt="cursor" />
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&duration=2800&pause=900&color=A855F7&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=I+build+systems%2C+not+narratives.;Perenexa+%E2%80%94+an+ecosystem%2C+built+from+first+principles.;Results+don't+need+an+introduction." alt="Typing SVG" />
+<img src="https://komarev.com/ghpvc/?username=Darshantada10&label=&color=00d4ff&style=flat-square" height="20"/>
 
 <br><br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Darshantada10&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=A855F7&icon_color=A855F7&text_color=c9d1d9" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Darshantada10&theme=radical&hide_border=true&background=0d1117&ring=A855F7&fire=A855F7&currStreakLabel=A855F7" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Darshantada10&show_icons=true&count_private=true&theme=nord&hide_border=true&bg_color=00000000&title_color=00D4FF&icon_color=00D4FF&text_color=e6f7ff" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Darshantada10&layout=compact&hide_border=true&theme=nord&bg_color=00000000&title_color=00D4FF&text_color=e6f7ff" height="165"/>
+
+<br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Darshantada10&theme=nord&hide_border=true&background=00000000&ring=00D4FF&fire=00D4FF&currStreakLabel=00D4FF" height="165"/>
 
 <br><br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Darshantada10&theme=react-dark&hide_border=true&bg_color=0d1117&color=A855F7&line=A855F7&point=ffffff" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Darshantada10&theme=react-dark&hide_border=true&bg_color=00000000&color=00D4FF&line=00D4FF&point=ffffff&area=true&area_color=00D4FF" width="95%"/>
 
 <br><br>
 
-<img src="https://github-profile-trophy.vercel.app/?username=Darshantada10&theme=radical&no-frame=true&no-bg=true&margin-w=8&row=1" width="95%"/>
+<img src="https://github-profile-3d-contrib.vercel.app/profile-3d-contrib/?username=Darshantada10&theme=blue_dark" width="95%"/>
 
 <br><br>
 
-<!-- SNAKE_START -->
+<img src="https://github-profile-trophy.vercel.app/?username=Darshantada10&theme=algolia&no-frame=true&no-bg=true&margin-w=6&row=1&column=7" width="95%"/>
+
+<br><br>
+
 <img src="https://raw.githubusercontent.com/Darshantada10/Darshantada10/output/github-contribution-grid-snake-dark.svg" width="95%"/>
-<!-- SNAKE_END -->
 
 <br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,50:0a2540,100:000000&height=100&section=footer"/>
 
 </div>
