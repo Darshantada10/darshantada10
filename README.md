@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=DARSHAN&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Talk%20is%20cheap.%20Check%20the%20commits.&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=DARSHAN&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Engineered%20in%20silence.%20Deployed%20with%20precision.&descAlignY=58&descSize=18" width="100%"/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&duration=2500&pause=800&color=A855F7&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=I+don't+ask+for+permission.;I+ship.;Building+Perenexa+from+the+ground+up." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&duration=2800&pause=900&color=A855F7&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=I+build+systems%2C+not+narratives.;Perenexa+%E2%80%94+an+ecosystem%2C+built+from+first+principles.;Results+don't+need+an+introduction." alt="Typing SVG" />
 
 <br><br>
 
